@@ -72,6 +72,15 @@ footer {
     width: 100%;
 }
 
+.card1 {
+    background-image:url(assets/images/wd1.jpg);
+    background-size: 231.75px 202px;
+}
+.card2 {
+    background-image:url(assets/images/wd2.jpg);
+    background-size: 231.75px 202px;
+}
+
 .card4 {
     background-image:url(assets/images/ui1.JPG);
     background-size: 231.75px 202px;
